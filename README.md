@@ -1,3 +1,3 @@
 # Paint-Shot
 
-Project files will be uploaded soon
+Project files will be pushed soon
